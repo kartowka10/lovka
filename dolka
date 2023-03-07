@@ -1,0 +1,12 @@
+names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve']
+
+sorted_names = sorted(names)
+
+print(sorted_names)
+['Alice', 'Bob', 'Charlie', 'David', 'Eve']
+names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve']
+
+names.sort()
+
+print(names)
+['Alice', 'Bob', 'Charlie', 'David', 'Eve']
